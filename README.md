@@ -5,9 +5,12 @@
 
 # 2. Web
 - [in developing](https://khrrc-cmat.web.app/)
+     - stack: own server, Django, Typescript, Python(word2vec, item response theory)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
 - [english quiz app](https://learningwhales-25946.web.app/)
-- [major recommendation app](https://aiedu-samdochi.web.app/)
+    - stack: AWS, Django, React, Python(KNN)
+- [university major recommendation app](https://aiedu-samdochi.web.app/)
+    - stack: AWS, Django, React(Typescript), Python(auto-encoder)
 
     
 <div align=center>
