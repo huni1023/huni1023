@@ -3,14 +3,17 @@
 # 1. Paper
 - (TBW)
 
-# 2. Web
+# 2. Product
 - [in developing](https://khrrc-cmat.web.app/)
-     - stack: own server, Django, Typescript, Python(word2vec, item response theory)
+     - stack: self-hosting server, Django, Typescript, Python(word2vec, item response theory)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
+     - stack: self-hosting server, Django, Typescript
 - [english quiz app](https://learningwhales-25946.web.app/)
     - stack: AWS, Django, React, Python(KNN)
 - [university major recommendation app](https://aiedu-samdochi.web.app/)
-    - stack: AWS, Django, React(Typescript), Python(auto-encoder)
+    - stack: AWS, Django, React(Typescript), Python(collaborative denoising auto-encoder)
+- [website for non-profit organization]
+     - stack: AWS, React(Typescript) 
 
 # 3. CV
 - (TBW)
