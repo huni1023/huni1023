@@ -4,7 +4,7 @@
 - (TBW)
 
 # 2. Product
-- [in developing](https://khrrc-cmat.web.app/)
+- [MVP of Aptimizer](https://khrrc-cmat.web.app/)
      - stack: self-hosting server, Django, Typescript, Python(word2vec, item response theory)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
      - stack: self-hosting server, Django, Typescript
