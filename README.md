@@ -16,7 +16,8 @@
      - stack: AWS, React(Typescript) 
 
 # 3. CV
-- (TBW)
+- (TBW: korean)
+- (TBW: english)
 
 <div align=center>
     
