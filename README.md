@@ -6,7 +6,8 @@ I'm interested in
 
 # 2. Product
 list of products that I developed
-- [MVP of Aptimizer](https://khrrc-cmat.web.app/)
+- [`huni-utils`, Python Utility Package](https://pypi.org/project/huni-utils/)
+- [MVP of `Aptimizer`](https://khrrc-cmat.web.app/)
      - stack: self-hosting server, Django, Typescript, Python(word2vec)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
      - stack: self-hosting server, Django, Typescript
