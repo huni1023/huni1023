@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi 👋
+I'm interested in 
 
 # 1. Paper
 - (TBW)
 
 # 2. Product
+list of products that I developed
 - [MVP of Aptimizer](https://khrrc-cmat.web.app/)
-     - stack: self-hosting server, Django, Typescript, Python(word2vec, item response theory)
+     - stack: self-hosting server, Django, Typescript, Python(word2vec)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
      - stack: self-hosting server, Django, Typescript
 - [english quiz app](https://learningwhales-25946.web.app/)
