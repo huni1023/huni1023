@@ -4,7 +4,6 @@ I'm interested in education data mining and competency-based assessment.
 # 1. Paper
 - Choi, Y., & Sung, J. (2024). Do Key Predictors of Academic Resilience Differ Across Cultures? Evidence From Korea and the US. Youth & Society, 0(0). https://doi.org/10.1177/0044118X241227563
 - 윤영,and 성지훈. "고등학생의 성별에 따른 공동체 역량 예측변인 탐색: 랜덤 포레스트를 활용하여." 청소년학연구 28.4 (2021): 383-410.
-- 
 
   
 # 2. Product
