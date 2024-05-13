@@ -22,7 +22,7 @@ list of products that I developed
      - stack: AWS, React(Typescript) 
 
 # 3. CV
-- (TBW: korean)
+- [KOR](https://huni1b-lab.com/media/cv/resumekor.md.pdf)
 - (TBW: english)
 
 <div align=center>
