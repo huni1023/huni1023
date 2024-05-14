@@ -2,14 +2,8 @@
 
 I'm interested in educational assessment and data-mining.
 Practically, I build computational tools to evaluate student's ability.
-
-# 1. Paper
-- Choi, Y., & Sung, J. (2024). Do Key Predictors of Academic Resilience Differ Across Cultures? Evidence From Korea and the US. Youth & Society, 0(0). https://doi.org/10.1177/0044118X241227563
-- 윤영,and 성지훈. "고등학생의 성별에 따른 공동체 역량 예측변인 탐색: 랜덤 포레스트를 활용하여." 청소년학연구 28.4 (2021): 383-410.<br/>
-(in English. Youn, Y., & Sung, J. (2021). Exploring the Predictors of Community Competency according to Gender of High School Students: using Random Forest Analysis. Korean Journal of Youth Studies, 28(4): 383-410.)
-
   
-# 2. Product
+# 1. Product
 list of products that I developed
 - [`huni-utils`, Python Utility Package](https://pypi.org/project/huni-utils/)
 - [MVP of `Aptimizer`](https://khrrc-cmat.web.app/)
@@ -23,7 +17,7 @@ list of products that I developed
 - [website for non-profit organization]
      - stack: AWS, React(Typescript) 
 
-# 3. CV
+# 2. CV
 - [KOR](https://huni1b-lab.com/media/cv/resumekor.md.pdf)
 - (TBW: english)
 
