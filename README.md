@@ -1,5 +1,7 @@
 ### Hi 👋
-I'm interested in educational data-mining and competency-based assessment.
+
+I'm interested in educational assessment and data-mining.
+Practically, I build computational tools to evaluate student's ability.
 
 # 1. Paper
 - Choi, Y., & Sung, J. (2024). Do Key Predictors of Academic Resilience Differ Across Cultures? Evidence From Korea and the US. Youth & Society, 0(0). https://doi.org/10.1177/0044118X241227563
