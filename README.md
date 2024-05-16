@@ -3,19 +3,19 @@
 I'm interested in educational assessment and data-mining.
 Practically, I build computational tools to evaluate student's ability.
   
-# 1. Product
-list of products that I developed
-- [`huni-utils`, Python Utility Package](https://pypi.org/project/huni-utils/)
-- [MVP of `Aptimizer`](https://khrrc-cmat.web.app/)
-     - stack: self-hosting server, Django, Typescript, Python(word2vec)
+# 1. Products
+The list of products that I developed myself or with colleagues
+- [Python Utility Package](https://pypi.org/project/huni-utils/)
+- [`Aptimizer`, Major Recommendation WebApp](https://khrrc-cmat.web.app/)
+     - stack: self-hosting server, Django, React(Typescript), Firebase, Python(word2vec)
 - [private english learning app](https://fluen-glish-6e302.web.app/)
      - stack: self-hosting server, Django, Typescript
-- [english quiz app](https://learningwhales-25946.web.app/)
-    - stack: AWS, Django, React, Python(KNN)
-- [university major recommendation app](https://aiedu-samdochi.web.app/)
-    - stack: AWS, Django, React(Typescript), Python(collaborative denoising auto-encoder)
+- [`Curi`, english quiz app](https://learningwhales-25946.web.app/)
+    - stack: AWS, Django, React(Typescript), Python(KNN)
+- [College Major Recommendation App](https://aiedu-samdochi.web.app/)
+    - stack: AWS, Django, React(Typescript), Firebase,Python(collaborative denoising auto-encoder)
 - [website for non-profit organization]
-     - stack: AWS, React(Typescript) 
+     - stack: AWS, React(Typescript)
 
 # 2. CV
 - [KOR](https://huni1b-lab.com/cv/long?language=kor)
