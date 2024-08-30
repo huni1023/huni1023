@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm interested in educational assessment and data-mining.
-Practically, I build computational tools to evaluate student's ability.
+Practically, I build computational tools to evaluate learner's ability.
   
 # 1. Products
 The list of products that I developed myself or with colleagues
