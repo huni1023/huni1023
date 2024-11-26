@@ -1,10 +1,10 @@
 ### Hi 👋
 
-I'm interested in educational assessment and data-mining.
-Practically, I build computational tools to evaluate learner's ability.
+I'm interested in Data Mining, Measurement, Natural Language Processing, Competency-based Assessment, Intelligent Tutoring System, Item Response Theory
+Practically, I build computational tools to evaluate learner's ability and make useful websites for fun!
   
 # 1. Products
-The list of products that I developed myself or with colleagues
+The list of products I developed, either individually or with colleagues.
 - [Python Utility Package](https://pypi.org/project/huni-utils/)
 - [`Aptimizer`, Major Recommendation WebApp](https://khrrc-cmat.web.app/)
      - stack: self-hosting server, Django, React(Typescript), Firebase, Python(word2vec)
@@ -17,9 +17,9 @@ The list of products that I developed myself or with colleagues
 - [website for non-profit organization]
      - stack: AWS, React(Typescript)
 
-# 2. CV
-- [KOR](https://huni1b-lab.com/cv/long?language=kor)
-- [ENG](https://huni1b-lab.com/cv/long?language=eng)
+# 2. CV (in-preparation)
+- KOR
+- ENG
 
 <div align=center>
     
