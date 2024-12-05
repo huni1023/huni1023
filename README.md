@@ -1,7 +1,7 @@
 ### Hi 👋
 
-I'm interested in Data Mining, Measurement, Natural Language Processing, Competency-based Assessment, Intelligent Tutoring System, Item Response Theory
-Practically, I build computational tools to evaluate learner's ability and make useful websites for fun!
+I'm interested in Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Casuality, Intelligent Tutoring System, Item Response Theory
+Practically, I build computational tools to evaluate learner's ability and make useful websites!
   
 # 1. Products
 The list of products I developed, either individually or with colleagues.
