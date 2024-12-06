@@ -1,7 +1,7 @@
 ### Hi 👋
 
-I'm interested in Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Casuality, Intelligent Tutoring System, Item Response Theory
-Practically, I build computational tools to evaluate learner's ability and make useful websites!
+I'm interested in Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
+Practically, I build systems to evaluate learners' abilities and create useful websites!
   
 # 1. Products
 The list of products I developed, either individually or with colleagues.
@@ -17,9 +17,9 @@ The list of products I developed, either individually or with colleagues.
 - [website for non-profit organization]
      - stack: AWS, React(Typescript)
 
-# 2. CV (in-preparation)
-- KOR
-- ENG
+# 2. CV
+- KOR (in-preparation)
+- [ENG](https://huni1b-lab.com/cv/long?language=eng)
 
 <div align=center>
     
