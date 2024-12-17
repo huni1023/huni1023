@@ -1,7 +1,9 @@
 ### Hi 👋
 
-I'm interested in Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
-Practically, I build systems to evaluate learners' abilities and create useful websites!
+I'm a researcher fascinated by exploring the world of knowledge.<br/>
+My research interests include Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
+Practically, I build systems to evaluate learners' abilities and create useful tools, such as websites and web applications. <br/>
+If you have any interesting research & development ideas, feel free to contact me via email.
   
 # 1. Products
 The list of products I developed, either individually or with colleagues.
@@ -13,23 +15,27 @@ The list of products I developed, either individually or with colleagues.
    - A Django API server hosted on an Ubuntu server, which I self-hosted
    - Word2Vec was used to represent a domain-specific corpus
    - The front-end was developed by another developer
+   - [→ see screenshot images]
 - [private english learning app](https://fluen-glish-6e302.web.app/)
    - stack: self-hosting Ubuntu server, Django, Typescript
    - This webapp was built for my own learning purposes.
    - I added interesting vocabulary and phrases to enhance my English skills!
+   - [→ see screenshot images]
 - [`Curi`, english quiz app](https://learningwhales-25946.web.app/)
     - stack: AWS, Django, React(Typescript), Python(KNN)
     - This webapp was built to recommend English books to elementary-level students
+    - [→ see screenshot images]
 - [College Major Recommendation App](https://aiedu-samdochi.web.app/)
     - stack: AWS, Django, React(Typescript), Firebase, Python(collaborative denoising auto-encoder)
     - This web app was built to recommend college majors leveraging embedding space
     - I solely designed and developed the entire system
+    - [→ see screenshot images]
 - [website for non-profit organization]
      - stack: AWS, React(Typescript)
 
 # 2. CV
 - KOR (in-preparation)
-- [ENG](https://huni1b-lab.com/cv/long?language=eng)
+- [ENG](https://huni1b-lab.com/cv/long?language=eng), (updated on 12/15/2024)
 
 <div align=center>
     
