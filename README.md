@@ -1,9 +1,10 @@
 ### Hi 👋
 
-I'm a researcher fascinated by exploring the world of knowledge.<br/>
+I'm a researcher fueled by curiosity and a passion for enhancing human learning.<br/>
+I hold a B.S. in Physics Education and an M.A. in Lifelong Education. <br/>
 My research interests include Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
 Practically, I build systems to evaluate learners' abilities and create useful tools, such as websites and web applications. <br/>
-If you have any interesting research & development ideas, feel free to contact me via email.
+
   
 # 1. Products
 The list of products I developed, either individually or with colleagues.
@@ -16,12 +17,12 @@ The list of products I developed, either individually or with colleagues.
    - Word2Vec was used to represent a domain-specific corpus
    - The front-end was developed by another developer
    - [→ see screenshot images]
-- [private english learning app](https://fluen-glish-6e302.web.app/)
+- [Private English Learning WebApp](https://fluen-glish-6e302.web.app/)
    - stack: self-hosting Ubuntu server, Django, Typescript
    - This webapp was built for my own learning purposes.
    - I added interesting vocabulary and phrases to enhance my English skills!
    - [→ see screenshot images]
-- [`Curi`, english quiz app](https://learningwhales-25946.web.app/)
+- [`Curi`, English Quiz WebApp for Elementary level student](https://learningwhales-25946.web.app/)
     - stack: AWS, Django, React(Typescript), Python(KNN)
     - This webapp was built to recommend English books to elementary-level students
     - [→ see screenshot images]
@@ -30,12 +31,14 @@ The list of products I developed, either individually or with colleagues.
     - This web app was built to recommend college majors leveraging embedding space
     - I solely designed and developed the entire system
     - [→ see screenshot images]
-- [website for non-profit organization]
+- Website for Non-Profit Organization
      - stack: AWS, React(Typescript)
+     - (it is not opened)
 
 # 2. CV
-- KOR (in-preparation)
 - [ENG](https://huni1b-lab.com/cv/long?language=eng), (updated on 12/15/2024)
+- KOR (in-preparation)
+
 
 <div align=center>
     
