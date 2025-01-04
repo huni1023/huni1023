@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm a researcher fueled by curiosity and a passion for enhancing human learning.<br/>
-I hold a B.S. in Physics Education and an M.A. in Lifelong Education. <br/>
+I hold a B.S. in Physics Education and an M.A. in Lifelong Education (Human Resource Development). <br/>
 My research interests include Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
 Practically, I build systems to evaluate learners' abilities and create useful tools, such as websites and web applications. <br/>
 
@@ -16,7 +16,7 @@ The list of products I developed, either individually or with colleagues.
    - A Django API server hosted on an Ubuntu server, which I self-hosted
    - Word2Vec was used to represent a domain-specific corpus
    - The front-end was developed by another developer
-   - [→ see screenshot images]
+   - [[→ see screenshot images](https://huni1b-lab.com/media/cv/Report_Aptimizer_MVP(public).pdf)]
 - [Private English Learning WebApp](https://fluen-glish-6e302.web.app/)
    - stack: self-hosting Ubuntu server, Django, Typescript
    - This webapp was built for my own learning purposes.
