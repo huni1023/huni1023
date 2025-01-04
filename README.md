@@ -21,7 +21,7 @@ The list of products I developed, either individually or with colleagues.
    - stack: self-hosting Ubuntu server, Django, Typescript
    - This webapp was built for my own learning purposes.
    - I added interesting vocabulary and phrases to enhance my English skills!
-   - [→ see screenshot images]
+   - [[→ see screenshot images](https://huni1b-lab.com/media/cv/screenshot_fluenglish(public).pdf)]
 - [`Curi`, English Quiz WebApp for Elementary level student](https://learningwhales-25946.web.app/)
     - stack: AWS, Django, React(Typescript), Python(KNN)
     - This webapp was built to recommend English books to elementary-level students
