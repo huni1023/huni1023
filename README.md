@@ -12,7 +12,7 @@ The list of products I developed, either individually or with colleagues.
 - IRT Equating for Unidimensional Mixed Format Test with Python [[→ go to pip project page](https://pypi.org/project/EqUMP/)]
   - stack: github workflows(autorelease, CI with R-Python), Python, numpy, scipy
   - I built this with my 4 colleagues who had fashion in educational measurement
-- `[SASA](https://sasadomi.hs.kr/account/login.php)`, Data-driven Physics Education [[→ go to website](https://datadedu.com/)]
+- [`SASA`](https://sasadomi.hs.kr/account/login.php), Data-driven Physics Education [[→ go to website](https://datadedu.com/)]
   - stack: AWS(EC2, RDS, S3), python Django, docker
   - A LMS system with Django, almost 50 students with 3 classes are using these system
 - `KISTEP`, Document Classifier (this project is not allowed to be public)
