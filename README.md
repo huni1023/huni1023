@@ -1,13 +1,21 @@
 ### 👋
 
-I'm a researcher fueled by curiosity and a passion for enhancing human learning.<br/>
+I'm a researcher and a founder fueled by curiosity and a passion for enhancing human learning.<br/>
 I hold a B.S. in Physics Education and an M.A. in Lifelong Education (Human Resource Development). <br/>
 My research interests include Data Mining, Measurement, Knowledge Tracing, Natural Language Processing, Causality, Intelligent Tutoring Systems, and Item Response Theory. <br/>
 Practically, I build systems to evaluate learners' abilities and create useful tools, such as websites and web applications. <br/>
+In 2025, I built my own research company named [MooWee Lab](https://moowee-lab.com/), collaborating with many enthusiastic partners.
 
   
 # 1. Products
 The list of products I developed, either individually or with colleagues.
+- IRT Equating for Unidimensional Mixed Format Test with Python [[→ go to pip project page](https://pypi.org/project/EqUMP/)]
+  - stack: github workflows(autorelease, CI with R-Python), Python, numpy, scipy
+  - I built this with my 4 colleagues who had fashion in educational measurement
+- `[SASA](https://sasadomi.hs.kr/account/login.php)`, Data-driven Physics Education [[→ go to website](https://datadedu.com/)]
+  - stack: AWS(EC2, RDS, S3), python Django, docker
+  - A LMS system with Django, almost 50 students with 3 classes are using these system
+- `KISTEP`, Document Classifier (this project is not allowed to be public)
 - Python Utility Package [[→ go to pip project page](https://pypi.org/project/huni-utils/)]
   - useful python scripts I use everyday
   - my first python pip-installable package
