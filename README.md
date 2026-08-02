@@ -2,10 +2,10 @@
 
 Entrepreneur and researcher working at the intersection of **education** and **AI**. I care deeply about the *elevation of human consciousness* and the *maturing of being* — and the role technology can play in them.
 
-- 🏢 Founder & CEO of **[MooWee](https://moowee-lab.com/)** — building measurement systems and learning tools with a team of enthusiastic partners
-- 🧑‍💻 Freelance **CTO** for **Lillo**
-- 🎓 B.S. in Physics Education · M.A. in Lifelong Education (Human Resource Development)
-- 🧠 Research interests: Data Mining, Intelligent Tutoring Systems, Learning Optimization, Educational Measurement & Assessment, NLP, and Causality
+- Founder & CEO of **[MooWee](https://moowee-lab.com/)** — building measurement systems and learning tools with a team of enthusiastic partners
+- Freelance **CTO** for **Lillo**
+- B.S. in Physics Education · M.A. in Lifelong Education (Human Resource Development)
+- Research interests: Data Mining, Intelligent Tutoring Systems, Learning Optimization, Educational Measurement & Assessment, NLP, and Causality
 
 ---
 
